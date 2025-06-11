@@ -1,4 +1,4 @@
-# Rock_core_detection
+# Att-YOLO
 This project is for automatic rock core classification and localization.
 
 The framework is developed based on the open-source tool MMYOLO. The model configuration files used in this paper are located at "./configs/myconfigs". In addition, parts of the source code in the visualization module have been modified to generate improved output images.
